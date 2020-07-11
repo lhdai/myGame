@@ -1,0 +1,36 @@
+
+
+
+body {
+    margin: 20 20;
+    padding: 0;
+    width: 800px;
+    height: 600px;
+}
+
+#goal {
+    display: none;
+    position: absolute;
+    width: 300px;
+    height: 120px;
+    left:272px;
+    top:262px;
+}
+
+#start{
+    display: none;
+    position: absolute;
+    width: 95px;
+    height: 80px;
+    left:360px;
+    top:380px;
+}
+
+#over{
+    display: none;
+    position: absolute;
+    width: 300px;
+    height: 200px;
+    left:257px;
+    top:202px;
+}
